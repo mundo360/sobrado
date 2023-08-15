@@ -4,7 +4,7 @@
 
 ### URL
 LinkBehaviour_E54427CD_F9D2_B376_41EB_D4EB36515BE6.source = https://wa.me/556199228733
-WebFrame_E57FEA18_F9EE_FD1E_41D2_DA2C9968989D.url = https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d480.277867502877!2d-47.8283472!3d-15.6331123!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTXCsDM3JzU5LjEiUyA0N8KwNDknNDAuOSJX!5e0!3m2!1spt-BR!2sbr!4v1692121335605!5m2!1spt-BR!2sbr
+WebFrame_E57FEA18_F9EE_FD1E_41D2_DA2C9968989D.url = https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3497.0231424831327!2d-47.828111!3d-15.633117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTXCsDM3JzU5LjIiUyA0N8KwNDknNDEuMiJX!5e1!3m2!1spt-BR!2sbr!4v1692128832665!5m2!1spt-BR!2sbr
 
 ## Media
 
@@ -115,10 +115,10 @@ album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B.label = Álbum de Fotos GS__4010
 panorama_E2D67E67_F4F4_4491_41E1_7DE2B40C3366.label = área-de-serviço
 
 ### Video
-videolevel_D3166252_FE52_AD12_41D7_1375EC1311BF.posterURL = media/video_D91A6C10_FE32_94EE_41E8_2FE3997666DE_poster_pt.jpg
-videolevel_D3166252_FE52_AD12_41D7_1375EC1311BF.url = media/video_D91A6C10_FE32_94EE_41E8_2FE3997666DE_pt.mp4
-videolevel_D3147196_FE52_AF12_41DF_A05477B28F4D.posterURL = media/video_E76F1BFA_F632_9312_41EB_AD2352C4AEB3_poster_pt.jpg
-videolevel_D3147196_FE52_AF12_41DF_A05477B28F4D.url = media/video_E76F1BFA_F632_9312_41EB_AD2352C4AEB3_pt.mp4
+videolevel_E92DCB52_FAC7_E6B5_41AD_46D14BC9198D.posterURL = media/video_D91A6C10_FE32_94EE_41E8_2FE3997666DE_poster_pt.jpg
+videolevel_E92DCB52_FAC7_E6B5_41AD_46D14BC9198D.url = media/video_D91A6C10_FE32_94EE_41E8_2FE3997666DE_pt.mp4
+videolevel_E92CFB12_FAC7_E6B5_41CB_69E8E32F456A.posterURL = media/video_E76F1BFA_F632_9312_41EB_AD2352C4AEB3_poster_pt.jpg
+videolevel_E92CFB12_FAC7_E6B5_41CB_69E8E32F456A.url = media/video_E76F1BFA_F632_9312_41EB_AD2352C4AEB3_pt.mp4
 
 ### Video Subtitles
 
@@ -175,7 +175,7 @@ Image_E54467CD_F9D2_B376_41D0_34EEDB283119.url = skin/Image_E54467CD_F9D2_B376_4
 Label_E5EA6821_F9F3_9D2E_41E2_D9DD80F14D0B.text = 4 quartos (2 suítes)
 Label_DA430AED_F9F6_BD36_41EB_3E901DAB00EC.text = Terreno: 700m2
 Label_DBFDA993_F9FD_BF12_41E4_D50FB2694625.text = Valor: R$ 700 mil
-Label_DB9BCCBD_F9FE_9516_41DD_55E953FBD32E.text = área Construída: 300m2
+Label_DB9BCCBD_F9FE_9516_41DD_55E953FBD32E.text = área Construída:300m2
 
 ### Multiline Text
 HTMLText_E57FCA18_F9EE_FD1E_41CF_BFFFE0497DB6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.6562500000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.66vh;font-family:'Bebas Neue Bold';"><B>Localização </B></SPAN></SPAN></DIV></div>
