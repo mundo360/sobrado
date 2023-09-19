@@ -1,0 +1,195 @@
+#: locale=es
+
+## Action
+
+### URL
+LinkBehaviour_E54427CD_F9D2_B376_41EB_D4EB36515BE6.source = https://wa.me/556199228733
+WebFrame_E57FEA18_F9EE_FD1E_41D2_DA2C9968989D.url = https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3497.0231424831327!2d-47.828111!3d-15.633117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTXCsDM3JzU5LjIiUyA0N8KwNDknNDEuMiJX!5e1!3m2!1spt-BR!2sbr!4v1692128832665!5m2!1spt-BR!2sbr
+
+## Media
+
+### Audio
+audiores_E5990055_F636_ED16_41A8_312D0DB2ACA3.mp3Url = media/audio_CA4C4529_F414_4491_41DB_E333E3383680_pt.mp3
+audiores_EF4FC3C3_F67D_B372_41E0_DE5E1478B430.mp3Url = media/audio_EE3A02AD_F672_AD37_41E0_103A0396F714_pt.mp3
+
+### Title
+video_E76F1BFA_F632_9312_41EB_AD2352C4AEB3.label = 0814
+video_D91A6C10_FE32_94EE_41E8_2FE3997666DE.label = 0814(1)
+panorama_E72122E7_F437_BD91_41C8_830C41DD82F7.label = 1ºandar
+panorama_E0C369FB_F474_4F71_41B6_85F66262B0A2.label = Acesso Varanda terreo
+panorama_F89F63C5_F414_4391_41E5_9BF717A36CBB.label = Banheiro social
+panorama_FF9B624B_F414_5C92_41C9_5BA162F8A446.label = Centro Casa
+panorama_E3D0D81D_F4F3_CCB1_41DF_9F34FF9CC2DE.label = Closet
+panorama_E2F4728B_F40C_5D91_41D8_EEDC7433A33A.label = Entrada-Cozinha
+panorama_E2BDCE4E_F4FC_4493_41D6_87AD9AFFF7F7.label = Entrada-sala
+panorama_E2E103C8_F4F4_439E_41EA_2B6816D2BA3D.label = Escada
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_0.label = GS__3956
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_1.label = GS__3956
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_1.label = GS__3964
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_13.label = GS__3964
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_2.label = GS__3964-2
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_6.label = GS__3964-2
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_3.label = GS__3966
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_12.label = GS__3966
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_3.label = GS__3967
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_4.label = GS__3967
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_5.label = GS__3969
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_26.label = GS__3969
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_17.label = GS__3970
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_6.label = GS__3970
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_7.label = GS__3971
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_11.label = GS__3971
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_34.label = GS__3973
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_8.label = GS__3973
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_9.label = GS__3985
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_33.label = GS__3985
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_16.label = GS__3990
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_10.label = GS__3990
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_19.label = GS__3992
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_11.label = GS__3992
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_12.label = GS__3993
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_28.label = GS__3993
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_30.label = GS__3993-2
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_13.label = GS__3993-2
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_14.label = GS__3993-3
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_27.label = GS__3993-3
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_24.label = GS__3994
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_15.label = GS__3994
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_20.label = GS__3994-2
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_16.label = GS__3994-2
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_15.label = GS__3995
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_17.label = GS__3995
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_18.label = GS__3996
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_32.label = GS__3996
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_29.label = GS__3996-2
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_19.label = GS__3996-2
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_20.label = GS__3997
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_22.label = GS__3997
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_21.label = GS__4002
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_14.label = GS__4002
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_8.label = GS__4002-2
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_22.label = GS__4002-2
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_23.label = GS__4004
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_7.label = GS__4004
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_24.label = GS__4005
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_31.label = GS__4005
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_25.label = GS__4006
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_21.label = GS__4006
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_26.label = GS__4008
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_18.label = GS__4008
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_27.label = GS__4009
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_2.label = GS__4009
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_28.label = GS__4010
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_0.label = GS__4010
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_29.label = GS__4014
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_23.label = GS__4014
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_10.label = GS__4014-2
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_30.label = GS__4014-2
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_31.label = GS__4015
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_25.label = GS__4015
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_5.label = GS__4016
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_32.label = GS__4016
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_33.label = GS__4016-2
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_9.label = GS__4016-2
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B_4.label = GS__4017
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B_34.label = GS__4017
+panorama_ED8BD58A_F41C_4793_41E7_DC69A22A2ADB.label = Mesa Churrasco
+panorama_E54CB144_F40C_BC97_4190_9EBD56312AF6.label = Quarto 1
+panorama_ECD418D4_F4F4_CDB7_41E8_640CBC69ACA2.label = Quarto 2
+panorama_E6702D35_F435_C4F1_41B0_3BD224A5FB64.label = Quarto 3
+panorama_E5D26C05_F40C_4491_41CA_069D740EC2D8.label = Quarto 4
+panorama_E3F0EADF_F4F4_4DB1_41A2_385C5B20AAB2.label = Quarto2-acesso-closet
+panorama_ED69C33C_F474_BCF7_41DA_AA951527EEBC.label = Sala
+panorama_D517F11D_F433_DCB1_41EB_41C7CBF7E49B.label = Sala de jantar
+panorama_EDA0C477_F40F_C571_41C6_E48F2CF91841.label = Suite-Quarto2
+panorama_E7CD8296_F473_DDB3_41EA_999AA4084644.label = Suite-Quarto4
+panorama_E0D9E0C2_F414_5D93_41E7_920E845D193E.label = Varanda 1 andar centro
+panorama_E7A27F2D_F40C_C491_41E5_241990092C27.label = Varanda 1ºandar
+panorama_D327E391_F40C_43B1_41D2_28243DBBF6EC.label = Varanda canto
+panorama_E0B8E219_F474_BCB1_41B1_B2C4865C4C65.label = bancada cozinha
+panorama_E086D298_F47C_DDBF_41E3_87DFDF8B302A.label = cozinha centro
+panorama_ED005D55_F40C_44B1_41E9_5BB4643488B7.label = jardim
+panorama_EC6AB0EB_F414_BD91_41A6_33ACD7C8CBCB.label = jardim-centro
+album_C2BBA222_F40C_BC93_41ED_AC885870C32B.label = Álbum de Fotos
+album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B.label = Álbum de Fotos GS__4010
+panorama_E2D67E67_F4F4_4491_41E1_7DE2B40C3366.label = área-de-serviço
+
+### Video
+videolevel_B3C54C69_AF8D_4001_4191_59CF21524A83.posterURL = media/video_D91A6C10_FE32_94EE_41E8_2FE3997666DE_poster_pt.jpg
+videolevel_B3C54C69_AF8D_4001_4191_59CF21524A83.url = media/video_D91A6C10_FE32_94EE_41E8_2FE3997666DE_pt.mp4
+videolevel_B3B67AB6_AF8D_4003_41C1_E430EE6BF93E.posterURL = media/video_E76F1BFA_F632_9312_41EB_AD2352C4AEB3_poster_pt.jpg
+videolevel_B3B67AB6_AF8D_4003_41C1_E430EE6BF93E.url = media/video_E76F1BFA_F632_9312_41EB_AD2352C4AEB3_pt.mp4
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = PANORAMA LIST
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = PANORAMA LIST
+Button_F01877F7_C7BF_4BBD_41BB_741602CF73DC_mobile.label = BACK
+Button_9E61578A_BF74_CC54_41D0_C54E5933CA42_mobile.pressedLabel = Bathrooms
+Button_9E61578A_BF74_CC54_41D0_C54E5933CA42.pressedLabel = Bathrooms
+Button_9E60A789_BF74_CC54_4195_FDD694FEA581_mobile.pressedLabel = Bedrooms
+Button_9E60A789_BF74_CC54_4195_FDD694FEA581.pressedLabel = Bedrooms
+Button_FA569B42_F414_CC93_41E1_57A93AFF94F4.pressedLabel = Bedrooms
+Button_FA6C5CC0_F414_C58F_41ED_F1537CB00AD8.pressedLabel = Bedrooms
+Button_FA6DCC93_F414_C5B1_41E3_19D420446630.pressedLabel = Bedrooms
+Button_E53BE7CB_F9D2_B372_41D6_52A2F211DCE4.label = CONTATO
+Button_CCFCBCCD_F40C_C591_41DE_9AA998C0D37D_mobile.label = Others
+Button_9E61D78D_BF74_CC6C_41CD_0C36B72D93B2.label = Others
+Button_9E67E788_BF74_CC54_41D0_56F2C1A46A69.label = Rooms
+Button_9E67E788_BF74_CC54_41D0_56F2C1A46A69_mobile.label = Rooms
+Button_C75C2DC2_F43C_4793_41D4_DC546E268FE4.label = Others
+Button_CD6164CE_F40C_4593_41E6_9CE58B6709B2_mobile.label = Others
+Button_9E61578A_BF74_CC54_41D0_C54E5933CA42.label = Bathrooms
+Button_9E61D78D_BF74_CC6C_41CD_0C36B72D93B2_mobile.label = Others
+Button_9E60A789_BF74_CC54_4195_FDD694FEA581.label = Bedrooms
+Button_9E61578A_BF74_CC54_41D0_C54E5933CA42_mobile.label = Bathrooms
+Button_9E61C78C_BF74_CC6C_41D5_5413C0B6EFC7_mobile.label = Exterior Area
+Button_FA6C5CC0_F414_C58F_41ED_F1537CB00AD8.label = Bedrooms
+Button_FA569B42_F414_CC93_41E1_57A93AFF94F4.label = Bedrooms
+Button_CD0101A0_F40C_5F8F_41E6_A12E178833E4_mobile.label = Exterior Area
+Button_CE4427F2_F40C_4373_41EA_1C01C4F3F753_mobile.label = Exterior Area
+Button_FA6DCC93_F414_C5B1_41E3_19D420446630.label = Bedrooms
+Button_E53BB7CD_F9D2_B376_41E8_8755DF8E6AA7.label = REALTOR
+Button_9E674786_BF74_CC5C_41BB_6474239E3CB2.pressedLabel = Reception
+Button_9E674786_BF74_CC5C_41BB_6474239E3CB2_mobile.pressedLabel = Reception
+Button_9E674786_BF74_CC5C_41BB_6474239E3CB2.label = Reception
+Button_9E674786_BF74_CC5C_41BB_6474239E3CB2_mobile.label = Reception
+Button_9E61C78C_BF74_CC6C_41D5_5413C0B6EFC7.label = Exterior Area
+Button_9E60A789_BF74_CC54_4195_FDD694FEA581_mobile.label = Bedrooms
+Button_F01877F7_C7BF_4BBD_41BB_741602CF73DC.label = BACK
+Button_E101B210_F63E_6CEE_41D0_64F328BE4E9A.label = Others
+Button_EC29A94A_F65D_BF72_41D2_844ADC9A1D42_mobile.label = Others
+
+### Image
+Image_D89E1C46_F9D2_9572_41EE_D077E912B3C7.url = skin/Image_D89E1C46_F9D2_9572_41EE_D077E912B3C7_pt.png
+Image_E53B87CD_F9D2_B376_41EC_431AD1FD599B.url = skin/Image_E53B87CD_F9D2_B376_41EC_431AD1FD599B_pt.png
+Image_E53B97CD_F9D2_B376_41E9_9B9916F6C05A.url = skin/Image_E53B97CD_F9D2_B376_41E9_9B9916F6C05A_pt.png
+Image_E54417CE_F9D2_B372_41D4_CB559ADBAE6E.url = skin/Image_E54417CE_F9D2_B372_41D4_CB559ADBAE6E_pt.png
+Image_E54457CD_F9D2_B376_41C8_3BC7ED78FA13.url = skin/Image_E54457CD_F9D2_B376_41C8_3BC7ED78FA13_pt.png
+Image_E54467CD_F9D2_B376_41D0_34EEDB283119.url = skin/Image_E54467CD_F9D2_B376_41D0_34EEDB283119_pt.png
+
+### Label
+Label_B227BC81_AF86_C000_41E1_353D8551C8DD.text = (61) 98291- 4040
+Label_E5EA6821_F9F3_9D2E_41E2_D9DD80F14D0B.text = 4 quartos (2 suítes)
+Label_DBFDA993_F9FD_BF12_41E4_D50FB2694625.text = Silvio Sá - corretor
+Label_DA430AED_F9F6_BD36_41EB_3E901DAB00EC.text = Terreno: 700m2
+Label_DB9BCCBD_F9FE_9516_41DD_55E953FBD32E.text = área Construída:300m2
+
+### Multiline Text
+HTMLText_E57FCA18_F9EE_FD1E_41CF_BFFFE0497DB6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.6562500000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.66vh;font-family:'Bebas Neue Bold';"><B>Localização </B></SPAN></SPAN></DIV></div>
+HTMLText_DC319146_C473_208B_41B4_BDAD25BF866B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.9699999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.97vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
+HTMLText_DA3037D7_C45D_24A9_41C6_11069F8D7AF4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.6199999999999997vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.62vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Montserrat';">COMPANY NAME</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Montserrat';">www.loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Montserrat';">info@loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Montserrat';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Montserrat';">COMPANY NAME</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10px;font-family:'Montserrat';">www.loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10px;font-family:'Montserrat';">info@loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10px;font-family:'Montserrat';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV></div>
+HTMLText_DC317147_C473_2089_41E1_A2A60EF4B565.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 9px rgba(0,0,0,1);text-align:left;font-size:4.369999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.37vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_D9F0B796_C45D_64AB_41C2_9F9C8C6BB833.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 9px rgba(0,0,0,1);text-align:left;font-size:6.56vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Casa Sobradinho II - 4 quartos
