@@ -3,7 +3,7 @@
 ## Action
 
 ### URL
-LinkBehaviour_E54427CD_F9D2_B376_41EB_D4EB36515BE6.source = https://wa.me/556199228733
+LinkBehaviour_E54427CD_F9D2_B376_41EB_D4EB36515BE6.source = https://wa.me/5561982914040
 WebFrame_E57FEA18_F9EE_FD1E_41D2_DA2C9968989D.url = https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3497.0231424831327!2d-47.828111!3d-15.633117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTXCsDM3JzU5LjIiUyA0N8KwNDknNDEuMiJX!5e1!3m2!1spt-BR!2sbr!4v1692128832665!5m2!1spt-BR!2sbr
 
 ## Media
@@ -115,10 +115,10 @@ album_C6070ED3_F433_C5B1_41D7_F57EC3CB8E1B.label = Álbum de Fotos GS__4010
 panorama_E2D67E67_F4F4_4491_41E1_7DE2B40C3366.label = área-de-serviço
 
 ### Video
-videolevel_B3C54C69_AF8D_4001_4191_59CF21524A83.posterURL = media/video_D91A6C10_FE32_94EE_41E8_2FE3997666DE_poster_pt.jpg
-videolevel_B3C54C69_AF8D_4001_4191_59CF21524A83.url = media/video_D91A6C10_FE32_94EE_41E8_2FE3997666DE_pt.mp4
-videolevel_B3B67AB6_AF8D_4003_41C1_E430EE6BF93E.posterURL = media/video_E76F1BFA_F632_9312_41EB_AD2352C4AEB3_poster_pt.jpg
-videolevel_B3B67AB6_AF8D_4003_41C1_E430EE6BF93E.url = media/video_E76F1BFA_F632_9312_41EB_AD2352C4AEB3_pt.mp4
+videolevel_AC886432_B186_C003_41E5_060EF7AE54FA.posterURL = media/video_D91A6C10_FE32_94EE_41E8_2FE3997666DE_poster_pt.jpg
+videolevel_AC886432_B186_C003_41E5_060EF7AE54FA.url = media/video_D91A6C10_FE32_94EE_41E8_2FE3997666DE_pt.mp4
+videolevel_AC9773DF_B186_C001_41D5_F45E726C334A.posterURL = media/video_E76F1BFA_F632_9312_41EB_AD2352C4AEB3_poster_pt.jpg
+videolevel_AC9773DF_B186_C001_41D5_F45E726C334A.url = media/video_E76F1BFA_F632_9312_41EB_AD2352C4AEB3_pt.mp4
 
 ### Video Subtitles
 
@@ -175,6 +175,8 @@ Image_E54467CD_F9D2_B376_41D0_34EEDB283119.url = skin/Image_E54467CD_F9D2_B376_4
 Label_B227BC81_AF86_C000_41E1_353D8551C8DD.text = (61) 98291- 4040
 Label_E5EA6821_F9F3_9D2E_41E2_D9DD80F14D0B.text = 4 quartos (2 suítes)
 Label_DBFDA993_F9FD_BF12_41E4_D50FB2694625.text = Silvio Sá - corretor
+Label_AE8877B2_B186_C003_41DA_450EB53CB83B.text = Sílvio Sá - corretor
+Label_ACB8FB2B_B18A_C001_41C0_47C9E44F6A7A.text = TEL: (61) 98291- 4040
 Label_DA430AED_F9F6_BD36_41EB_3E901DAB00EC.text = Terreno: 700m2
 Label_DB9BCCBD_F9FE_9516_41DD_55E953FBD32E.text = área Construída:300m2
 
@@ -183,7 +185,6 @@ HTMLText_E57FCA18_F9EE_FD1E_41CF_BFFFE0497DB6.html = <div style="text-align:left
 HTMLText_DC319146_C473_208B_41B4_BDAD25BF866B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.881331403762663vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.88vmin;font-family:'Montserrat Black';">Casa Sobrado - 4 quartos</SPAN></SPAN></DIV></div>
 HTMLText_DA3037D7_C45D_24A9_41C6_11069F8D7AF4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.62vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.62vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
 HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Montserrat';">Casa Sobradinho</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Montserrat';">Cond. Morada da Serra</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:14px;font-family:'Montserrat';"><B>Tel: (61) 98291-4040 </B></SPAN></SPAN></DIV></div>
-HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;">TEL:(82)9922-8733</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 HTMLText_DC317147_C473_2089_41E1_A2A60EF4B565.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 9px rgba(0,0,0,1);text-align:left;font-size:4.37vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.37vmin;font-family:'Montserrat';">Casa Sobrado</SPAN></SPAN></DIV></div>
 HTMLText_D9F0B796_C45D_64AB_41C2_9F9C8C6BB833.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 9px rgba(0,0,0,1);text-align:left;font-size:6.56vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
 
